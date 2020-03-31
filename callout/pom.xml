@@ -12,7 +12,7 @@
   <properties>
     <apiproxy.java.rsrc.dir>../bundle/apiproxy/resources/java</apiproxy.java.rsrc.dir>
     <apache.commons.lang.version>2.6</apache.commons.lang.version>
-    <apache.commons.codec.version>1.10</apache.commons.codec.version>
+    <apache.commons.codec.version>1.13</apache.commons.codec.version>
     <apigee.expressions.version>1.0.0</apigee.expressions.version>
     <apigee.message.flow.version>1.0.0</apigee.message.flow.version>
     <mockito.all.version>1.10.19</mockito.all.version>
